@@ -1,0 +1,6 @@
+{
+  "name": "Stunning Loka Unisex Salon",
+  "description": "Premium beauty salon in BTM Layout, Bangalore offering bridal makeup, hair styling, facials, and grooming services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
